@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "hello-prettier",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@gitlab.com:yszk0123/hello-prettier.git",
+  "author": "Yuji Suzuki <y0suzuki0123@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "prettier": "^0.0.7"
+  }
+}
