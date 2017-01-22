@@ -7,6 +7,6 @@
   "author": "Yuji Suzuki <y0suzuki0123@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "prettier": "^0.0.8"
+    "prettier": "^0.0.10"
   }
 }
